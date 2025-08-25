@@ -42,3 +42,5 @@ What are the most popular product categories and how much do they contribute to 
 Which sub-categories bring the maximum profit?
 How do payment methods impact total orders and revenue share?
 
+# Here is a preview of the Ecommerce Sales Dashboard built in Power BI:
+https://github.com/Sohailllll/Ecommerce-Sales-Dashboard/blob/main/Project1-Dashboard.png
